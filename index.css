@@ -1,0 +1,18 @@
+#txt{
+    align-content: center;
+    width: 60%;
+    
+
+
+}
+.todolist li{
+    display: flex;
+    align-items: center;
+}
+.todolist button{
+    display: flex;
+}
+.checked{
+    text-decoration: line-through;
+
+}
